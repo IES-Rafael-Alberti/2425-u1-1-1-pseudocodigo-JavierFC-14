@@ -5,3 +5,7 @@
 
 Edad: 24
 Nombre: Javier Fernández
+Fecha de entrega: 27/09/2024
+Correo electrónico: jfercas614@g.educaand.es
+Curso: 1º DAW
+Identificador: p1.1 algoritmo en pseudocódigo
