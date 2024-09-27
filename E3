@@ -1,0 +1,18 @@
+Inicio
+    Leer x
+    EsNúmeroPrimo = Verdadero
+    si x <= 1 Entonces
+        EsNúmeroPrimo = falso
+    SiNo
+        Para i desde 2 hasta x-1 Hacer
+            Si x mod i = o Entonces
+            EsNúmeroPrimo = falso
+            FinSi
+        FinPara
+    FinSi
+    Si EsNúmeroPrimo Entonces
+        Escribir "El número x es primo"
+    SiNo
+        Escribir "El númerox no es primo"
+    FinSi
+Fin

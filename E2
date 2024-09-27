@@ -1,0 +1,7 @@
+Inicio
+    Leer x
+    Para i desde 1 hasta 10 Hacer
+        Resultado = x*i 
+        Escribir "La tabla del número x es" + Resultado
+    FinPara
+Fin
